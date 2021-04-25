@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Tailwind Starter Template</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="/index.HASH_REF_a866436ab9463102785292d70f72f59b.css" rel="stylesheet">
+</head>
+
+<body>
+  <h1 class="text-4xl text-center my-16 text-gray-400 font-bold font-sans">Greetings, comrade. live build test?</h1>
+  <script src="/index.HASH_REF_43fa468db0c578b4fac81dc3ba5228ff.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,2 @@
+var _import = require('./import');
+console.log(_import.myString);
